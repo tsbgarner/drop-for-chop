@@ -8,7 +8,7 @@ html, body {
   height: 100%;
 }
 
-.container {
+.container1, .container2 {
   display: flex;
 }
 
